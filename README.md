@@ -1,64 +1,35 @@
-# Hi 👋, I'm S.Bhavya Priyanka
+# S. Bhavya Priyanka
 
-DevOps Engineer | Cloud Enthusiast | Linux | Kubernetes | AWS
+I build cloud infrastructure, automate deployments, and document everything I learn.
 
-I enjoy building scalable infrastructure, automating deployments, and improving developer productivity through CI/CD and Infrastructure as Code.
+Most repositories here are part of **LocalHelp**, a production-inspired application where I experiment with cloud infrastructure, containerization, Kubernetes, CI/CD, and automation using real-world workflows rather than isolated examples.
 
-## 🛠 Tech Stack
+## Current Focus
 
-- Linux
-- Docker
-- Kubernetes
-- AWS
-- Terraform
-- Ansible
-- Jenkins
-- GitHub Actions
-- Python
-- Bash
-- Helm
-- Prometheus
-- Grafana
-- ArgoCD
+- Building AWS infrastructure with Terraform
+- Running containerized applications on Kubernetes
+- Automating deployments with GitHub Actions
+- Writing reusable Ansible roles
+- Improving observability with Prometheus & Grafana
 
-## 🚀 Featured Projects
+## Core Technologies
 
-### Kubernetes Microservices Platform
-- Production-ready Kubernetes deployment
-- Helm Charts
-- Ingress
-- Horizontal Pod Autoscaler
-- Prometheus + Grafana Monitoring
+AWS • Linux • Docker • Kubernetes • Terraform • Ansible • GitHub Actions • Jenkins • Bash • Python • Helm
 
-### Terraform AWS Infrastructure
-- VPC
-- EC2
-- RDS
-- ALB
-- Auto Scaling
-- IAM
+## Featured Work
 
-### GitHub Actions CI/CD
-- Build
-- Test
-- Docker Image
-- Push to Docker Hub
-- Deploy to Kubernetes
+### 🏗 LocalHelp Infrastructure
+Provisioning AWS infrastructure using Terraform modules.
 
-### Ansible Automation
-- Server provisioning
-- Nginx
-- Docker
-- User Management
+### ☸ Kubernetes Deployment
+Deploying and managing LocalHelp services with Kubernetes, Helm, Ingress and autoscaling.
 
-## 📜 Certifications
+### 🚀 CI/CD
+Automated build, test and deployment pipelines for every change.
 
-- AWS Certified Cloud Practitioner
-- AWS Solutions Architect Associate
-- CKA (if applicable)
+### 📊 Monitoring
+Application and infrastructure monitoring using Prometheus and Grafana.
 
-## 📫 Contact
+---
 
-LinkedIn:
-Email:
-Portfolio:
+> *Good infrastructure is invisible. Good automation is unforgettable.*
