@@ -2,7 +2,7 @@
 
 I build cloud infrastructure, automate deployments, and document everything I learn.
 
-Most repositories here are part of **LocalHelp**, a production-inspired application where I experiment with cloud infrastructure, containerization, Kubernetes, CI/CD, and automation using real-world workflows rather than isolated examples.
+Most repositories here are part of **LocalHelp**- a three tier application, a production-inspired application where I experiment with cloud infrastructure, containerization, Kubernetes, CI/CD, and automation using real-world workflows rather than isolated examples.
 
 ## Current Focus
 
