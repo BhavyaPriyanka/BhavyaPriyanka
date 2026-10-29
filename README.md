@@ -1,11 +1,6 @@
 # S. Bhavya Priyanka
 
-I build cloud infrastructure, automate deployments, and document everything I learn.
-
-
-# S. Bhavya Priyanka
-
-Currently working on **LocalHelp**, a hands-on DevOps project focused on AWS infrastructure, Terraform, Kubernetes, and CI/CD automation.
+I build cloud infrastructure, automate deployments, and document everything I learn, Currently working on **LocalHelp**, a hands-on DevOps project focused on AWS infrastructure, Terraform, Kubernetes, and CI/CD automation.
 
 ## Current Focus
 
