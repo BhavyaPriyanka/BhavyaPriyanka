@@ -2,34 +2,23 @@
 
 I build cloud infrastructure, automate deployments, and document everything I learn.
 
-Most repositories here are part of **LocalHelp**, a three tier production-inspired application where I experiment with cloud infrastructure, containerization, Kubernetes, CI/CD, and automation using real-world workflows rather than isolated examples.
+
+# S. Bhavya Priyanka
+
+Currently working on **LocalHelp**, a hands-on DevOps project focused on AWS infrastructure, Terraform, Kubernetes, and CI/CD automation.
 
 ## Current Focus
 
-- Building AWS infrastructure with Terraform
-- Running containerized applications on Kubernetes
-- Automating deployments with GitHub Actions
-- Writing reusable Ansible roles
-- Improving observability with Prometheus & Grafana
+- AWS infrastructure with Terraform
+- Kubernetes and Amazon EKS
+- CI/CD automation with Jenkins
+- Application deployments using Helm and Argo CD
+- Monitoring with Prometheus and Grafana
 
-## Core Technologies
+## Technologies
 
-AWS • Linux • Docker • Kubernetes • Terraform • Ansible • GitHub Actions • Jenkins • Bash • Python • Helm
-
-## Featured Work
-
-### 🏗 LocalHelp Infrastructure
-Provisioning AWS infrastructure using Terraform modules.
-
-### ☸ Kubernetes Deployment
-Deploying and managing LocalHelp services with Kubernetes, Helm, Ingress and autoscaling.
-
-### 🚀 CI/CD
-Automated build, test and deployment pipelines for every change.
-
-### 📊 Monitoring
-Application and infrastructure monitoring using Prometheus and Grafana.
+AWS · Linux · Docker · Kubernetes · Terraform · Jenkins · Ansible · Helm · Argo CD · Bash · Python
 
 ---
 
-> *Good infrastructure is invisible. Good automation is unforgettable.*
+*Building, troubleshooting, learning, and improving one step at a time.*
